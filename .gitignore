@@ -1,0 +1,25 @@
+# Local data and model artifacts
+data/
+datasets/
+cache/
+checkpoints/
+logs/
+results/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.log
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
